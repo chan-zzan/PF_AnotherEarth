@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43ea58195a6abb943baf766e89af5227, type: 3}
+  m_Name: Stage 6
+  m_EditorClassIdentifier: 
+  phases:
+  - phase: 0
+    spawnTime: 0.5
+    spawnMonster: {fileID: 1287047596682728771, guid: 27d46fd38b9299b43810d5947bc5daf6, type: 3}
+  - phase: 1
+    spawnTime: 0.5
+    spawnMonster: {fileID: 1287047596682728771, guid: 27d46fd38b9299b43810d5947bc5daf6, type: 3}
+  - phase: 2
+    spawnTime: 0.5
+    spawnMonster: {fileID: 1287047596682728771, guid: 27d46fd38b9299b43810d5947bc5daf6, type: 3}
+  - phase: 3
+    spawnTime: 0.5
+    spawnMonster: {fileID: 122426698398893622, guid: 67151c2a6732dc342905a387730962a7, type: 3}
+  - phase: 4
+    spawnTime: 0.5
+    spawnMonster: {fileID: 122426698398893622, guid: 67151c2a6732dc342905a387730962a7, type: 3}
+  - phase: 5
+    spawnTime: 0.5
+    spawnMonster: {fileID: 122426698398893622, guid: 67151c2a6732dc342905a387730962a7, type: 3}
+  - phase: 6
+    spawnTime: 0.5
+    spawnMonster: {fileID: 122426698398893622, guid: 6148788e9ada6674da0308b3b585c962, type: 3}
+  items:
+  - mineral: 3000
+    spaceMaterials:
+    - {fileID: 6955622604629860418, guid: 626be61ea46848f48841509c5271e64f, type: 3}
+    spaceMaterialsNum: 1e000000

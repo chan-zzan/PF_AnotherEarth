@@ -1,0 +1,1952 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0f3774a278a9564984a5ea32ee1de78, type: 3}
+  m_Name: StageDB
+  m_EditorClassIdentifier: 
+  Stage1:
+  - phase: 0
+    monsterType: 0
+    number: 10
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 1
+    monsterType: 0
+    number: 10
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 2
+    monsterType: 0
+    number: 10
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 3
+    monsterType: 0
+    number: 10
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 4
+    monsterType: 0
+    number: 15
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 5
+    monsterType: 0
+    number: 15
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 6
+    monsterType: 1
+    number: 10
+    hp: 20
+    damage: 3
+    speed: 10
+    coin: 500
+  - phase: 7
+    monsterType: 0
+    number: 15
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 8
+    monsterType: 1
+    number: 10
+    hp: 20
+    damage: 3
+    speed: 10
+    coin: 500
+  - phase: 9
+    monsterType: 0
+    number: 15
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 10
+    monsterType: 1
+    number: 10
+    hp: 20
+    damage: 3
+    speed: 10
+    coin: 500
+  - phase: 11
+    monsterType: 0
+    number: 5
+    hp: 15
+    damage: 2
+    speed: 10
+    coin: 400
+  - phase: 12
+    monsterType: 2
+    number: 1
+    hp: 450
+    damage: 10
+    speed: 10
+    coin: 0
+  Stage2:
+  - phase: 0
+    monsterType: 3
+    number: 12
+    hp: 20
+    damage: 5
+    speed: 10
+    coin: 1200
+  - phase: 1
+    monsterType: 3
+    number: 12
+    hp: 20
+    damage: 5
+    speed: 10
+    coin: 1200
+  - phase: 2
+    monsterType: 3
+    number: 12
+    hp: 20
+    damage: 5
+    speed: 10
+    coin: 1200
+  - phase: 3
+    monsterType: 4
+    number: 10
+    hp: 40
+    damage: 5
+    speed: 10
+    coin: 1500
+  - phase: 4
+    monsterType: 3
+    number: 22
+    hp: 20
+    damage: 5
+    speed: 10
+    coin: 1200
+  - phase: 5
+    monsterType: 4
+    number: 10
+    hp: 40
+    damage: 7
+    speed: 10
+    coin: 1500
+  - phase: 6
+    monsterType: 3
+    number: 22
+    hp: 20
+    damage: 5
+    speed: 10
+    coin: 1200
+  - phase: 7
+    monsterType: 4
+    number: 10
+    hp: 40
+    damage: 7
+    speed: 10
+    coin: 1500
+  - phase: 8
+    monsterType: 3
+    number: 22
+    hp: 20
+    damage: 5
+    speed: 10
+    coin: 1200
+  - phase: 9
+    monsterType: 4
+    number: 10
+    hp: 50
+    damage: 9
+    speed: 10
+    coin: 1500
+  - phase: 10
+    monsterType: 3
+    number: 17
+    hp: 20
+    damage: 5
+    speed: 10
+    coin: 1200
+  - phase: 11
+    monsterType: 4
+    number: 5
+    hp: 40
+    damage: 7
+    speed: 10
+    coin: 1500
+  - phase: 12
+    monsterType: 5
+    number: 1
+    hp: 1500
+    damage: 15
+    speed: 10
+    coin: 0
+  Stage3:
+  - phase: 0
+    monsterType: 6
+    number: 14
+    hp: 25
+    damage: 7
+    speed: 12
+    coin: 2000
+  - phase: 1
+    monsterType: 6
+    number: 14
+    hp: 25
+    damage: 7
+    speed: 12
+    coin: 2000
+  - phase: 2
+    monsterType: 6
+    number: 14
+    hp: 25
+    damage: 7
+    speed: 12
+    coin: 2000
+  - phase: 3
+    monsterType: 7
+    number: 16
+    hp: 42
+    damage: 9
+    speed: 10
+    coin: 2800
+  - phase: 4
+    monsterType: 6
+    number: 24
+    hp: 25
+    damage: 7
+    speed: 12
+    coin: 2000
+  - phase: 5
+    monsterType: 7
+    number: 16
+    hp: 42
+    damage: 9
+    speed: 10
+    coin: 2800
+  - phase: 6
+    monsterType: 6
+    number: 24
+    hp: 25
+    damage: 7
+    speed: 12
+    coin: 2000
+  - phase: 7
+    monsterType: 7
+    number: 11
+    hp: 42
+    damage: 9
+    speed: 10
+    coin: 2800
+  - phase: 8
+    monsterType: 6
+    number: 14
+    hp: 25
+    damage: 7
+    speed: 12
+    coin: 2000
+  - phase: 9
+    monsterType: 7
+    number: 11
+    hp: 42
+    damage: 10
+    speed: 10
+    coin: 2800
+  - phase: 10
+    monsterType: 6
+    number: 14
+    hp: 25
+    damage: 7
+    speed: 12
+    coin: 2000
+  - phase: 11
+    monsterType: 7
+    number: 5
+    hp: 42
+    damage: 9
+    speed: 10
+    coin: 2800
+  - phase: 12
+    monsterType: 8
+    number: 1
+    hp: 2700
+    damage: 20
+    speed: 10
+    coin: 0
+  Stage4:
+  - phase: 0
+    monsterType: 9
+    number: 18
+    hp: 35
+    damage: 10
+    speed: 12
+    coin: 2500
+  - phase: 1
+    monsterType: 9
+    number: 18
+    hp: 35
+    damage: 10
+    speed: 12
+    coin: 2500
+  - phase: 2
+    monsterType: 9
+    number: 18
+    hp: 35
+    damage: 10
+    speed: 12
+    coin: 2500
+  - phase: 3
+    monsterType: 10
+    number: 19
+    hp: 60
+    damage: 12
+    speed: 11
+    coin: 3000
+  - phase: 4
+    monsterType: 9
+    number: 26
+    hp: 35
+    damage: 10
+    speed: 12
+    coin: 2500
+  - phase: 5
+    monsterType: 10
+    number: 19
+    hp: 60
+    damage: 12
+    speed: 11
+    coin: 3000
+  - phase: 6
+    monsterType: 9
+    number: 26
+    hp: 35
+    damage: 10
+    speed: 12
+    coin: 2500
+  - phase: 7
+    monsterType: 10
+    number: 19
+    hp: 60
+    damage: 12
+    speed: 11
+    coin: 3000
+  - phase: 8
+    monsterType: 9
+    number: 26
+    hp: 35
+    damage: 10
+    speed: 12
+    coin: 2500
+  - phase: 9
+    monsterType: 10
+    number: 19
+    hp: 60
+    damage: 15
+    speed: 11
+    coin: 3000
+  - phase: 10
+    monsterType: 9
+    number: 15
+    hp: 35
+    damage: 10
+    speed: 12
+    coin: 2200
+  - phase: 11
+    monsterType: 10
+    number: 5
+    hp: 60
+    damage: 12
+    speed: 11
+    coin: 3000
+  - phase: 12
+    monsterType: 11
+    number: 1
+    hp: 4000
+    damage: 30
+    speed: 12
+    coin: 0
+  Stage5:
+  - phase: 0
+    monsterType: 12
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 12
+    coin: 3200
+  - phase: 1
+    monsterType: 12
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 12
+    coin: 3200
+  - phase: 2
+    monsterType: 12
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 12
+    coin: 3200
+  - phase: 3
+    monsterType: 13
+    number: 21
+    hp: 80
+    damage: 17
+    speed: 11
+    coin: 3500
+  - phase: 4
+    monsterType: 12
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 12
+    coin: 3200
+  - phase: 5
+    monsterType: 13
+    number: 21
+    hp: 80
+    damage: 17
+    speed: 11
+    coin: 3500
+  - phase: 6
+    monsterType: 12
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 12
+    coin: 3200
+  - phase: 7
+    monsterType: 13
+    number: 21
+    hp: 80
+    damage: 17
+    speed: 11
+    coin: 3500
+  - phase: 8
+    monsterType: 12
+    number: 28
+    hp: 45
+    damage: 15
+    speed: 12
+    coin: 3200
+  - phase: 9
+    monsterType: 13
+    number: 21
+    hp: 80
+    damage: 17
+    speed: 11
+    coin: 3500
+  - phase: 10
+    monsterType: 12
+    number: 19
+    hp: 45
+    damage: 15
+    speed: 12
+    coin: 3200
+  - phase: 11
+    monsterType: 13
+    number: 5
+    hp: 80
+    damage: 17
+    speed: 11
+    coin: 3500
+  - phase: 12
+    monsterType: 14
+    number: 1
+    hp: 6000
+    damage: 50
+    speed: 12
+    coin: 0
+  Stage6:
+  - phase: 0
+    monsterType: 15
+    number: 22
+    hp: 55
+    damage: 20
+    speed: 12
+    coin: 3500
+  - phase: 1
+    monsterType: 15
+    number: 22
+    hp: 55
+    damage: 20
+    speed: 12
+    coin: 3500
+  - phase: 2
+    monsterType: 15
+    number: 22
+    hp: 55
+    damage: 20
+    speed: 12
+    coin: 3500
+  - phase: 3
+    monsterType: 16
+    number: 23
+    hp: 100
+    damage: 22
+    speed: 11
+    coin: 4500
+  - phase: 4
+    monsterType: 15
+    number: 25
+    hp: 55
+    damage: 20
+    speed: 12
+    coin: 3500
+  - phase: 5
+    monsterType: 16
+    number: 23
+    hp: 100
+    damage: 22
+    speed: 11
+    coin: 4500
+  - phase: 6
+    monsterType: 15
+    number: 25
+    hp: 55
+    damage: 20
+    speed: 12
+    coin: 3500
+  - phase: 7
+    monsterType: 16
+    number: 23
+    hp: 100
+    damage: 22
+    speed: 11
+    coin: 4500
+  - phase: 8
+    monsterType: 15
+    number: 25
+    hp: 55
+    damage: 20
+    speed: 12
+    coin: 3500
+  - phase: 9
+    monsterType: 16
+    number: 23
+    hp: 100
+    damage: 22
+    speed: 11
+    coin: 4500
+  - phase: 10
+    monsterType: 15
+    number: 18
+    hp: 55
+    damage: 20
+    speed: 12
+    coin: 3500
+  - phase: 11
+    monsterType: 16
+    number: 5
+    hp: 100
+    damage: 22
+    speed: 11
+    coin: 4500
+  - phase: 12
+    monsterType: 17
+    number: 1
+    hp: 8000
+    damage: 70
+    speed: 12
+    coin: 0
+  Stage7:
+  - phase: 0
+    monsterType: 18
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 12
+    coin: 3000
+  - phase: 1
+    monsterType: 18
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 12
+    coin: 3000
+  - phase: 2
+    monsterType: 18
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 12
+    coin: 3000
+  - phase: 3
+    monsterType: 19
+    number: 35
+    hp: 140
+    damage: 32
+    speed: 11
+    coin: 3300
+  - phase: 4
+    monsterType: 18
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 12
+    coin: 3000
+  - phase: 5
+    monsterType: 19
+    number: 35
+    hp: 140
+    damage: 32
+    speed: 11
+    coin: 3300
+  - phase: 6
+    monsterType: 18
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 12
+    coin: 3000
+  - phase: 7
+    monsterType: 19
+    number: 35
+    hp: 140
+    damage: 32
+    speed: 11
+    coin: 3300
+  - phase: 8
+    monsterType: 18
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 12
+    coin: 3000
+  - phase: 9
+    monsterType: 19
+    number: 35
+    hp: 140
+    damage: 32
+    speed: 11
+    coin: 3300
+  - phase: 10
+    monsterType: 18
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 12
+    coin: 3000
+  - phase: 11
+    monsterType: 19
+    number: 5
+    hp: 140
+    damage: 32
+    speed: 11
+    coin: 3300
+  - phase: 12
+    monsterType: 20
+    number: 1
+    hp: 10000
+    damage: 100
+    speed: 14
+    coin: 0
+  Stage8:
+  - phase: 0
+    monsterType: 21
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 12
+    coin: 3200
+  - phase: 1
+    monsterType: 21
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 12
+    coin: 3200
+  - phase: 2
+    monsterType: 21
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 12
+    coin: 3200
+  - phase: 3
+    monsterType: 22
+    number: 40
+    hp: 160
+    damage: 42
+    speed: 11
+    coin: 3500
+  - phase: 4
+    monsterType: 21
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 12
+    coin: 3200
+  - phase: 5
+    monsterType: 22
+    number: 40
+    hp: 160
+    damage: 42
+    speed: 11
+    coin: 3500
+  - phase: 6
+    monsterType: 21
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 12
+    coin: 3200
+  - phase: 7
+    monsterType: 22
+    number: 40
+    hp: 160
+    damage: 42
+    speed: 11
+    coin: 3500
+  - phase: 8
+    monsterType: 21
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 12
+    coin: 3200
+  - phase: 9
+    monsterType: 22
+    number: 40
+    hp: 160
+    damage: 42
+    speed: 11
+    coin: 3500
+  - phase: 10
+    monsterType: 21
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 12
+    coin: 3200
+  - phase: 11
+    monsterType: 22
+    number: 5
+    hp: 160
+    damage: 42
+    speed: 11
+    coin: 3500
+  - phase: 12
+    monsterType: 23
+    number: 1
+    hp: 12000
+    damage: 150
+    speed: 14
+    coin: 0
+  Stage9:
+  - phase: 0
+    monsterType: 24
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 12
+    coin: 3300
+  - phase: 1
+    monsterType: 24
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 12
+    coin: 3300
+  - phase: 2
+    monsterType: 24
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 12
+    coin: 3300
+  - phase: 3
+    monsterType: 25
+    number: 40
+    hp: 180
+    damage: 52
+    speed: 11
+    coin: 4000
+  - phase: 4
+    monsterType: 24
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 12
+    coin: 3300
+  - phase: 5
+    monsterType: 25
+    number: 40
+    hp: 180
+    damage: 52
+    speed: 11
+    coin: 4000
+  - phase: 6
+    monsterType: 24
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 12
+    coin: 3300
+  - phase: 7
+    monsterType: 25
+    number: 40
+    hp: 180
+    damage: 52
+    speed: 11
+    coin: 4000
+  - phase: 8
+    monsterType: 24
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 12
+    coin: 3300
+  - phase: 9
+    monsterType: 25
+    number: 40
+    hp: 180
+    damage: 52
+    speed: 11
+    coin: 4000
+  - phase: 10
+    monsterType: 24
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 12
+    coin: 3300
+  - phase: 11
+    monsterType: 25
+    number: 5
+    hp: 180
+    damage: 52
+    speed: 11
+    coin: 4000
+  - phase: 12
+    monsterType: 26
+    number: 1
+    hp: 14000
+    damage: 200
+    speed: 14
+    coin: 0
+  Stage10:
+  - phase: 0
+    monsterType: 27
+    number: 45
+    hp: 70
+    damage: 25
+    speed: 12
+    coin: 8500
+  - phase: 1
+    monsterType: 28
+    number: 30
+    hp: 75
+    damage: 30
+    speed: 12
+    coin: 8500
+  - phase: 2
+    monsterType: 29
+    number: 30
+    hp: 80
+    damage: 35
+    speed: 12
+    coin: 8500
+  - phase: 3
+    monsterType: 30
+    number: 30
+    hp: 85
+    damage: 40
+    speed: 12
+    coin: 8500
+  - phase: 4
+    monsterType: 31
+    number: 20
+    hp: 90
+    damage: 45
+    speed: 12
+    coin: 8500
+  - phase: 5
+    monsterType: 32
+    number: 20
+    hp: 95
+    damage: 50
+    speed: 12
+    coin: 8500
+  - phase: 6
+    monsterType: 33
+    number: 20
+    hp: 100
+    damage: 55
+    speed: 12
+    coin: 8500
+  - phase: 7
+    monsterType: 34
+    number: 20
+    hp: 105
+    damage: 60
+    speed: 12
+    coin: 8500
+  - phase: 8
+    monsterType: 35
+    number: 20
+    hp: 110
+    damage: 65
+    speed: 12
+    coin: 8500
+  - phase: 9
+    monsterType: 36
+    number: 20
+    hp: 115
+    damage: 70
+    speed: 14
+    coin: 0
+  - phase: 10
+    monsterType: 0
+    number: 0
+    hp: 0
+    damage: 0
+    speed: 0
+    coin: 0
+  - phase: 11
+    monsterType: 0
+    number: 1
+    hp: 2500
+    damage: 50
+    speed: 14
+    coin: 10000
+  - phase: 12
+    monsterType: 0
+    number: 1
+    hp: 2700
+    damage: 60
+    speed: 14
+    coin: 10000
+  - phase: 13
+    monsterType: 0
+    number: 1
+    hp: 2900
+    damage: 70
+    speed: 14
+    coin: 10000
+  - phase: 14
+    monsterType: 0
+    number: 1
+    hp: 3100
+    damage: 80
+    speed: 14
+    coin: 10000
+  - phase: 15
+    monsterType: 0
+    number: 1
+    hp: 3300
+    damage: 90
+    speed: 14
+    coin: 10000
+  - phase: 16
+    monsterType: 0
+    number: 1
+    hp: 3500
+    damage: 100
+    speed: 14
+    coin: 10000
+  - phase: 17
+    monsterType: 0
+    number: 1
+    hp: 3700
+    damage: 110
+    speed: 14
+    coin: 10000
+  - phase: 18
+    monsterType: 0
+    number: 1
+    hp: 3900
+    damage: 120
+    speed: 14
+    coin: 10000
+  - phase: 19
+    monsterType: 0
+    number: 1
+    hp: 20000
+    damage: 130
+    speed: 16
+    coin: 0
+  Stage1_H:
+  - phase: 0
+    monsterType: 0
+    number: 18
+    hp: 35
+    damage: 10
+    speed: 14
+    coin: 2500
+  - phase: 1
+    monsterType: 0
+    number: 18
+    hp: 35
+    damage: 10
+    speed: 14
+    coin: 2500
+  - phase: 2
+    monsterType: 0
+    number: 18
+    hp: 35
+    damage: 10
+    speed: 14
+    coin: 2500
+  - phase: 3
+    monsterType: 1
+    number: 19
+    hp: 60
+    damage: 12
+    speed: 13
+    coin: 3000
+  - phase: 4
+    monsterType: 0
+    number: 26
+    hp: 35
+    damage: 10
+    speed: 14
+    coin: 2500
+  - phase: 5
+    monsterType: 1
+    number: 19
+    hp: 60
+    damage: 12
+    speed: 13
+    coin: 3000
+  - phase: 6
+    monsterType: 0
+    number: 26
+    hp: 35
+    damage: 10
+    speed: 14
+    coin: 2500
+  - phase: 7
+    monsterType: 1
+    number: 19
+    hp: 60
+    damage: 12
+    speed: 13
+    coin: 3000
+  - phase: 8
+    monsterType: 0
+    number: 26
+    hp: 35
+    damage: 10
+    speed: 14
+    coin: 2500
+  - phase: 9
+    monsterType: 1
+    number: 19
+    hp: 80
+    damage: 15
+    speed: 13
+    coin: 3000
+  - phase: 10
+    monsterType: 0
+    number: 15
+    hp: 35
+    damage: 10
+    speed: 14
+    coin: 2200
+  - phase: 11
+    monsterType: 1
+    number: 5
+    hp: 60
+    damage: 12
+    speed: 13
+    coin: 3000
+  - phase: 12
+    monsterType: 2
+    number: 1
+    hp: 4000
+    damage: 30
+    speed: 16
+    coin: 0
+  Stage2_H:
+  - phase: 0
+    monsterType: 3
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 14
+    coin: 3200
+  - phase: 1
+    monsterType: 3
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 14
+    coin: 3200
+  - phase: 2
+    monsterType: 3
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 14
+    coin: 3200
+  - phase: 3
+    monsterType: 4
+    number: 21
+    hp: 80
+    damage: 17
+    speed: 13
+    coin: 3500
+  - phase: 4
+    monsterType: 3
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 14
+    coin: 3200
+  - phase: 5
+    monsterType: 4
+    number: 21
+    hp: 80
+    damage: 17
+    speed: 13
+    coin: 3500
+  - phase: 6
+    monsterType: 3
+    number: 20
+    hp: 45
+    damage: 15
+    speed: 14
+    coin: 3200
+  - phase: 7
+    monsterType: 4
+    number: 21
+    hp: 80
+    damage: 17
+    speed: 13
+    coin: 3500
+  - phase: 8
+    monsterType: 3
+    number: 28
+    hp: 45
+    damage: 15
+    speed: 14
+    coin: 3200
+  - phase: 9
+    monsterType: 4
+    number: 21
+    hp: 80
+    damage: 17
+    speed: 13
+    coin: 3500
+  - phase: 10
+    monsterType: 3
+    number: 19
+    hp: 45
+    damage: 15
+    speed: 14
+    coin: 3200
+  - phase: 11
+    monsterType: 4
+    number: 5
+    hp: 80
+    damage: 17
+    speed: 13
+    coin: 3500
+  - phase: 12
+    monsterType: 5
+    number: 1
+    hp: 6000
+    damage: 50
+    speed: 16
+    coin: 0
+  Stage3_H:
+  - phase: 0
+    monsterType: 6
+    number: 22
+    hp: 55
+    damage: 20
+    speed: 14
+    coin: 3500
+  - phase: 1
+    monsterType: 6
+    number: 22
+    hp: 55
+    damage: 20
+    speed: 14
+    coin: 3500
+  - phase: 2
+    monsterType: 6
+    number: 22
+    hp: 55
+    damage: 20
+    speed: 14
+    coin: 3500
+  - phase: 3
+    monsterType: 7
+    number: 23
+    hp: 100
+    damage: 22
+    speed: 13
+    coin: 4500
+  - phase: 4
+    monsterType: 6
+    number: 25
+    hp: 55
+    damage: 20
+    speed: 14
+    coin: 3500
+  - phase: 5
+    monsterType: 7
+    number: 23
+    hp: 100
+    damage: 22
+    speed: 13
+    coin: 4500
+  - phase: 6
+    monsterType: 6
+    number: 25
+    hp: 55
+    damage: 20
+    speed: 14
+    coin: 3500
+  - phase: 7
+    monsterType: 7
+    number: 23
+    hp: 100
+    damage: 22
+    speed: 13
+    coin: 4500
+  - phase: 8
+    monsterType: 6
+    number: 25
+    hp: 55
+    damage: 20
+    speed: 14
+    coin: 3500
+  - phase: 9
+    monsterType: 7
+    number: 23
+    hp: 100
+    damage: 22
+    speed: 13
+    coin: 4500
+  - phase: 10
+    monsterType: 6
+    number: 18
+    hp: 55
+    damage: 20
+    speed: 14
+    coin: 3500
+  - phase: 11
+    monsterType: 7
+    number: 5
+    hp: 100
+    damage: 22
+    speed: 13
+    coin: 4500
+  - phase: 12
+    monsterType: 8
+    number: 1
+    hp: 8000
+    damage: 70
+    speed: 16
+    coin: 0
+  Stage4_H:
+  - phase: 0
+    monsterType: 9
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 14
+    coin: 3000
+  - phase: 1
+    monsterType: 9
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 14
+    coin: 3000
+  - phase: 2
+    monsterType: 9
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 14
+    coin: 3000
+  - phase: 3
+    monsterType: 10
+    number: 35
+    hp: 140
+    damage: 32
+    speed: 13
+    coin: 3300
+  - phase: 4
+    monsterType: 9
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 14
+    coin: 3000
+  - phase: 5
+    monsterType: 10
+    number: 35
+    hp: 140
+    damage: 32
+    speed: 13
+    coin: 3300
+  - phase: 6
+    monsterType: 9
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 14
+    coin: 3000
+  - phase: 7
+    monsterType: 10
+    number: 35
+    hp: 140
+    damage: 32
+    speed: 13
+    coin: 3300
+  - phase: 8
+    monsterType: 9
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 14
+    coin: 3000
+  - phase: 9
+    monsterType: 10
+    number: 35
+    hp: 140
+    damage: 32
+    speed: 13
+    coin: 3300
+  - phase: 10
+    monsterType: 9
+    number: 35
+    hp: 75
+    damage: 30
+    speed: 14
+    coin: 3000
+  - phase: 11
+    monsterType: 10
+    number: 5
+    hp: 140
+    damage: 32
+    speed: 13
+    coin: 3300
+  - phase: 12
+    monsterType: 11
+    number: 1
+    hp: 10000
+    damage: 100
+    speed: 16
+    coin: 0
+  Stage5_H:
+  - phase: 0
+    monsterType: 12
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 14
+    coin: 3200
+  - phase: 1
+    monsterType: 12
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 14
+    coin: 3200
+  - phase: 2
+    monsterType: 12
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 14
+    coin: 3200
+  - phase: 3
+    monsterType: 13
+    number: 40
+    hp: 160
+    damage: 42
+    speed: 13
+    coin: 3500
+  - phase: 4
+    monsterType: 12
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 14
+    coin: 3200
+  - phase: 5
+    monsterType: 13
+    number: 40
+    hp: 160
+    damage: 42
+    speed: 13
+    coin: 3500
+  - phase: 6
+    monsterType: 12
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 14
+    coin: 3200
+  - phase: 7
+    monsterType: 13
+    number: 40
+    hp: 160
+    damage: 42
+    speed: 13
+    coin: 3500
+  - phase: 8
+    monsterType: 12
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 14
+    coin: 3200
+  - phase: 9
+    monsterType: 13
+    number: 40
+    hp: 160
+    damage: 42
+    speed: 13
+    coin: 3500
+  - phase: 10
+    monsterType: 12
+    number: 37
+    hp: 85
+    damage: 40
+    speed: 14
+    coin: 3200
+  - phase: 11
+    monsterType: 13
+    number: 5
+    hp: 160
+    damage: 42
+    speed: 13
+    coin: 3500
+  - phase: 12
+    monsterType: 14
+    number: 1
+    hp: 12000
+    damage: 150
+    speed: 16
+    coin: 0
+  Stage6_H:
+  - phase: 0
+    monsterType: 15
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 14
+    coin: 3300
+  - phase: 1
+    monsterType: 15
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 14
+    coin: 3300
+  - phase: 2
+    monsterType: 15
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 14
+    coin: 3300
+  - phase: 3
+    monsterType: 16
+    number: 40
+    hp: 180
+    damage: 52
+    speed: 13
+    coin: 4000
+  - phase: 4
+    monsterType: 15
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 14
+    coin: 3300
+  - phase: 5
+    monsterType: 16
+    number: 40
+    hp: 180
+    damage: 52
+    speed: 13
+    coin: 4000
+  - phase: 6
+    monsterType: 15
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 14
+    coin: 3300
+  - phase: 7
+    monsterType: 16
+    number: 40
+    hp: 180
+    damage: 52
+    speed: 13
+    coin: 4000
+  - phase: 8
+    monsterType: 15
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 14
+    coin: 3300
+  - phase: 9
+    monsterType: 16
+    number: 40
+    hp: 180
+    damage: 52
+    speed: 13
+    coin: 4000
+  - phase: 10
+    monsterType: 15
+    number: 40
+    hp: 95
+    damage: 50
+    speed: 14
+    coin: 3300
+  - phase: 11
+    monsterType: 16
+    number: 5
+    hp: 180
+    damage: 52
+    speed: 13
+    coin: 4000
+  - phase: 12
+    monsterType: 17
+    number: 1
+    hp: 14000
+    damage: 200
+    speed: 16
+    coin: 0
+  Stage7_H:
+  - phase: 0
+    monsterType: 18
+    number: 50
+    hp: 115
+    damage: 70
+    speed: 14
+    coin: 3000
+  - phase: 1
+    monsterType: 18
+    number: 50
+    hp: 115
+    damage: 70
+    speed: 14
+    coin: 3000
+  - phase: 2
+    monsterType: 18
+    number: 50
+    hp: 115
+    damage: 70
+    speed: 14
+    coin: 3000
+  - phase: 3
+    monsterType: 19
+    number: 46
+    hp: 220
+    damage: 72
+    speed: 13
+    coin: 3500
+  - phase: 4
+    monsterType: 18
+    number: 60
+    hp: 115
+    damage: 70
+    speed: 14
+    coin: 3000
+  - phase: 5
+    monsterType: 19
+    number: 46
+    hp: 220
+    damage: 72
+    speed: 13
+    coin: 3500
+  - phase: 6
+    monsterType: 18
+    number: 60
+    hp: 115
+    damage: 70
+    speed: 14
+    coin: 3000
+  - phase: 7
+    monsterType: 19
+    number: 46
+    hp: 220
+    damage: 72
+    speed: 13
+    coin: 3500
+  - phase: 8
+    monsterType: 18
+    number: 60
+    hp: 115
+    damage: 70
+    speed: 14
+    coin: 3000
+  - phase: 9
+    monsterType: 19
+    number: 46
+    hp: 220
+    damage: 72
+    speed: 13
+    coin: 3500
+  - phase: 10
+    monsterType: 18
+    number: 50
+    hp: 115
+    damage: 70
+    speed: 14
+    coin: 3000
+  - phase: 11
+    monsterType: 19
+    number: 15
+    hp: 220
+    damage: 72
+    speed: 13
+    coin: 3500
+  - phase: 12
+    monsterType: 20
+    number: 1
+    hp: 16000
+    damage: 300
+    speed: 16
+    coin: 0
+  Stage8_H:
+  - phase: 0
+    monsterType: 21
+    number: 54
+    hp: 125
+    damage: 80
+    speed: 14
+    coin: 3000
+  - phase: 1
+    monsterType: 21
+    number: 54
+    hp: 125
+    damage: 80
+    speed: 14
+    coin: 3000
+  - phase: 2
+    monsterType: 21
+    number: 54
+    hp: 125
+    damage: 80
+    speed: 14
+    coin: 3000
+  - phase: 3
+    monsterType: 22
+    number: 60
+    hp: 240
+    damage: 82
+    speed: 13
+    coin: 3500
+  - phase: 4
+    monsterType: 21
+    number: 54
+    hp: 125
+    damage: 80
+    speed: 14
+    coin: 3000
+  - phase: 5
+    monsterType: 22
+    number: 60
+    hp: 240
+    damage: 82
+    speed: 13
+    coin: 3500
+  - phase: 6
+    monsterType: 21
+    number: 54
+    hp: 125
+    damage: 80
+    speed: 14
+    coin: 3000
+  - phase: 7
+    monsterType: 22
+    number: 60
+    hp: 240
+    damage: 82
+    speed: 13
+    coin: 3500
+  - phase: 8
+    monsterType: 21
+    number: 54
+    hp: 125
+    damage: 80
+    speed: 14
+    coin: 3000
+  - phase: 9
+    monsterType: 22
+    number: 60
+    hp: 240
+    damage: 82
+    speed: 13
+    coin: 3500
+  - phase: 10
+    monsterType: 21
+    number: 54
+    hp: 125
+    damage: 80
+    speed: 14
+    coin: 3000
+  - phase: 11
+    monsterType: 22
+    number: 10
+    hp: 240
+    damage: 82
+    speed: 13
+    coin: 3500
+  - phase: 12
+    monsterType: 23
+    number: 1
+    hp: 18000
+    damage: 400
+    speed: 16
+    coin: 0
+  Stage9_H:
+  - phase: 0
+    monsterType: 24
+    number: 58
+    hp: 135
+    damage: 90
+    speed: 14
+    coin: 3200
+  - phase: 1
+    monsterType: 24
+    number: 58
+    hp: 135
+    damage: 90
+    speed: 14
+    coin: 3200
+  - phase: 2
+    monsterType: 24
+    number: 58
+    hp: 135
+    damage: 90
+    speed: 14
+    coin: 3200
+  - phase: 3
+    monsterType: 25
+    number: 64
+    hp: 260
+    damage: 92
+    speed: 13
+    coin: 3500
+  - phase: 4
+    monsterType: 24
+    number: 58
+    hp: 135
+    damage: 90
+    speed: 14
+    coin: 3000
+  - phase: 5
+    monsterType: 25
+    number: 64
+    hp: 260
+    damage: 92
+    speed: 13
+    coin: 3500
+  - phase: 6
+    monsterType: 24
+    number: 58
+    hp: 135
+    damage: 90
+    speed: 14
+    coin: 3000
+  - phase: 7
+    monsterType: 25
+    number: 64
+    hp: 260
+    damage: 92
+    speed: 13
+    coin: 3500
+  - phase: 8
+    monsterType: 24
+    number: 58
+    hp: 135
+    damage: 90
+    speed: 14
+    coin: 3000
+  - phase: 9
+    monsterType: 25
+    number: 64
+    hp: 260
+    damage: 92
+    speed: 13
+    coin: 3500
+  - phase: 10
+    monsterType: 24
+    number: 58
+    hp: 135
+    damage: 90
+    speed: 14
+    coin: 3000
+  - phase: 11
+    monsterType: 25
+    number: 15
+    hp: 260
+    damage: 92
+    speed: 13
+    coin: 3500
+  - phase: 12
+    monsterType: 26
+    number: 1
+    hp: 20000
+    damage: 500
+    speed: 16
+    coin: 0
+  Stage10_H:
+  - phase: 0
+    monsterType: 27
+    number: 45
+    hp: 155
+    damage: 50
+    speed: 14
+    coin: 12000
+  - phase: 1
+    monsterType: 28
+    number: 30
+    hp: 165
+    damage: 55
+    speed: 14
+    coin: 12000
+  - phase: 2
+    monsterType: 29
+    number: 30
+    hp: 175
+    damage: 60
+    speed: 14
+    coin: 12000
+  - phase: 3
+    monsterType: 30
+    number: 30
+    hp: 185
+    damage: 65
+    speed: 14
+    coin: 12000
+  - phase: 4
+    monsterType: 31
+    number: 20
+    hp: 195
+    damage: 70
+    speed: 14
+    coin: 12000
+  - phase: 5
+    monsterType: 32
+    number: 20
+    hp: 205
+    damage: 75
+    speed: 14
+    coin: 12000
+  - phase: 6
+    monsterType: 33
+    number: 20
+    hp: 215
+    damage: 80
+    speed: 14
+    coin: 12000
+  - phase: 7
+    monsterType: 34
+    number: 20
+    hp: 225
+    damage: 85
+    speed: 14
+    coin: 12000
+  - phase: 8
+    monsterType: 35
+    number: 20
+    hp: 235
+    damage: 90
+    speed: 14
+    coin: 12000
+  - phase: 9
+    monsterType: 36
+    number: 20
+    hp: 245
+    damage: 95
+    speed: 16
+    coin: 0
+  - phase: 10
+    monsterType: 0
+    number: 0
+    hp: 0
+    damage: 0
+    speed: 0
+    coin: 0
+  - phase: 11
+    monsterType: 0
+    number: 1
+    hp: 5000
+    damage: 100
+    speed: 16
+    coin: 20000
+  - phase: 12
+    monsterType: 0
+    number: 1
+    hp: 5200
+    damage: 110
+    speed: 16
+    coin: 20000
+  - phase: 13
+    monsterType: 0
+    number: 1
+    hp: 5400
+    damage: 120
+    speed: 16
+    coin: 20000
+  - phase: 14
+    monsterType: 0
+    number: 1
+    hp: 5600
+    damage: 130
+    speed: 16
+    coin: 20000
+  - phase: 15
+    monsterType: 0
+    number: 1
+    hp: 5800
+    damage: 140
+    speed: 16
+    coin: 20000
+  - phase: 16
+    monsterType: 0
+    number: 1
+    hp: 6000
+    damage: 150
+    speed: 16
+    coin: 20000
+  - phase: 17
+    monsterType: 0
+    number: 1
+    hp: 6200
+    damage: 160
+    speed: 16
+    coin: 20000
+  - phase: 18
+    monsterType: 0
+    number: 1
+    hp: 6400
+    damage: 170
+    speed: 16
+    coin: 20000
+  - phase: 19
+    monsterType: 0
+    number: 1
+    hp: 30000
+    damage: 180
+    speed: 18
+    coin: 0

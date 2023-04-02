@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 210f447009050484dba4e233dbb88bc7, type: 3}
+  m_Name: Weapon Info Data_Sycthe
+  m_EditorClassIdentifier: 
+  isShortWeapon: 1
+  weaponNumber: 3
+  weaponName: "\uB300\uB0AB"
+  weaponSprite: {fileID: 6745060519572138876, guid: 3d04e7ee327281a46a02dca68833dcfa,
+    type: 3}
+  weaponSummary: "\uC900\uC218\uD55C \uD68C\uC804\uC18D\uB3C4\uC640\r\n\uB370\uBBF8\uC9C0\uB85C
+    \uB2E4\uAC00\uC624\uB294\r\n\uB9CE\uC740 \uC801\uB4E4\uC5D0\uAC8C\r\n\uB370\uBBF8\uC9C0\uB97C
+    \uC785\uD788\uBA70\r\n\uBC00\uC5B4\uB0C5\uB2C8\uB2E4."
+  defaultAtk: 3
+  atkPerLevel: 3
+  defaultDps: 20
+  maxDps: 20
+  dpsPerLevel: 100
+  defaultPts: 0
+  maxPts: 0
+  ptsPerLevel: 0
+  maxPtc: 5
+  ptcPerLevel: 1
+  knockBackValue: 30

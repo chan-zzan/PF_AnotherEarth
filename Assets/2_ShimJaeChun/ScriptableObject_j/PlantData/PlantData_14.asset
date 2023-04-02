@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c40d0a4e2345aec4b8551a5a437363e5, type: 3}
+  m_Name: PlantData_14
+  m_EditorClassIdentifier: 
+  plantNumber: 14
+  plantSprite: {fileID: 21300000, guid: 3d0de79f53a06b34cb14c1d5d4b92605, type: 3}
+  createTime: 900
+  getExpValue: 1200
+  plantName: "\uB808\uBAAC\uB4E4\uB808 \uC5F4\uB9E4"
+  plantSummary: "\uB808\uBAAC\uB4E4\uB808 \uC5F4\uB9E4 \uC0D8\uD50C\uB85C \uC12D\uCDE8
+    \uC2DC\n\uCCB4\uB825\uC744 \uD5A5\uC0C1\uC2DC\uD0B5\uB2C8\uB2E4. "

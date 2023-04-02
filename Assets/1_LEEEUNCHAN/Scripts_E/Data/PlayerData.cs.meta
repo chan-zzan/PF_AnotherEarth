@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Script/LEC/Data/PlayerData.cs.meta
+guid: a3c68b21f0a88f3419fa756cc2eb0614
+========
+guid: b3ba2ec0898970745bba50e90c9e4a2f
+>>>>>>>> origin/PG_sjc:Assets/Scripts_j/UI/UIButton/OpenPopUpButton.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
